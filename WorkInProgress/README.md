@@ -34,7 +34,22 @@ auto
 - CONTEÚDOS
 - INFORMAÇÕES
 
-[Preparando seu ambiente de produção e versionando no Github](https://web.dio.me/lab/criando-um-blog/learning/19013487-b8a3-4073-8b38-796e03d80453)[Enxergando os componentes em um Layout](https://web.dio.me/lab/criando-um-blog/learning/5c961a71-b6d9-48a8-ab42-d1db372db024)[Criando a base dos components](https://web.dio.me/lab/criando-um-blog/learning/54f3220b-4d74-4b05-8cdf-c60c9be63af4)[Menu Title](https://web.dio.me/lab/criando-um-blog/learning/7b0e05c4-ce78-49ac-bc23-5fa89b8b6fbc)[Criando a estrutura do big card](https://web.dio.me/lab/criando-um-blog/learning/89c65c3b-358e-4a36-a630-2518ad719944)[Concentrando seu Big Card](https://web.dio.me/lab/criando-um-blog/learning/6d3fa487-ea4a-41c2-bcf0-697f1b8bce57)[Desenhando Small-Cards](https://web.dio.me/lab/criando-um-blog/learning/6b1cfd5b-ed4f-4e1a-a9cb-5bf0c5534978)[Criando o Componente do Menu](https://web.dio.me/lab/criando-um-blog/learning/508b2bb5-a3ca-4e00-827e-ee13d1340cc2)[Commitando seu projeto e editando ele online](https://web.dio.me/lab/criando-um-blog/learning/ac47212d-3279-4c34-8154-7a583eeef2e3)[Agregando múltiplos CSS para um component](https://web.dio.me/lab/criando-um-blog/learning/a3bc644b-92ff-47b1-ae3e-057506dc5047)[Desacoplando os componentes da parte visual](https://web.dio.me/lab/criando-um-blog/learning/346b167a-1c32-42d0-b577-20fb90baebd1)[Criando outras páginas](https://web.dio.me/lab/criando-um-blog/learning/d399bddb-0be6-4838-9d9a-5f76e2782f2f)[Pegando os dados dinamicamente](https://web.dio.me/lab/criando-um-blog/learning/b0f03451-ed97-4b1d-b683-ba7ea8d52f93)[Deixando a content Page Dinâmica](https://web.dio.me/lab/criando-um-blog/learning/e043ef2b-5742-4edf-a6a6-912a81d969b5)[Lembre de salvar no Git](https://web.dio.me/lab/criando-um-blog/learning/f86a8732-841a-4351-a437-66b67d550729)[Entendendo o Desafio de Projeto](https://web.dio.me/lab/criando-um-blog/learning/623bd6a5-7d90-465b-958c-10c41bfe3c28)
+- [Preparando seu ambiente de produção e versionando no Github](https://web.dio.me/lab/criando-um-blog/learning/19013487-b8a3-4073-8b38-796e03d80453)
+- [Enxergando os componentes em um Layout](https://web.dio.me/lab/criando-um-blog/learning/5c961a71-b6d9-48a8-ab42-d1db372db024)
+- [Criando a base dos components](https://web.dio.me/lab/criando-um-blog/learning/54f3220b-4d74-4b05-8cdf-c60c9be63af4)
+- [Menu Title](https://web.dio.me/lab/criando-um-blog/learning/7b0e05c4-ce78-49ac-bc23-5fa89b8b6fbc)
+- [Criando a estrutura do big card](https://web.dio.me/lab/criando-um-blog/learning/89c65c3b-358e-4a36-a630-2518ad719944)
+- [Concentrando seu Big Card](https://web.dio.me/lab/criando-um-blog/learning/6d3fa487-ea4a-41c2-bcf0-697f1b8bce57)
+- [Desenhando Small-Cards](https://web.dio.me/lab/criando-um-blog/learning/6b1cfd5b-ed4f-4e1a-a9cb-5bf0c5534978)
+- [Criando o Componente do Menu](https://web.dio.me/lab/criando-um-blog/learning/508b2bb5-a3ca-4e00-827e-ee13d1340cc2)
+- [Commitando seu projeto e editando ele online](https://web.dio.me/lab/criando-um-blog/learning/ac47212d-3279-4c34-8154-7a583eeef2e3)
+- [Agregando múltiplos CSS para um component](https://web.dio.me/lab/criando-um-blog/learning/a3bc644b-92ff-47b1-ae3e-057506dc5047)
+- [Desacoplando os componentes da parte visual](https://web.dio.me/lab/criando-um-blog/learning/346b167a-1c32-42d0-b577-20fb90baebd1)
+- [Criando outras páginas](https://web.dio.me/lab/criando-um-blog/learning/d399bddb-0be6-4838-9d9a-5f76e2782f2f)
+- [Pegando os dados dinamicamente](https://web.dio.me/lab/criando-um-blog/learning/b0f03451-ed97-4b1d-b683-ba7ea8d52f93)
+- [Deixando a content Page Dinâmica](https://web.dio.me/lab/criando-um-blog/learning/e043ef2b-5742-4edf-a6a6-912a81d969b5)
+- [Lembre de salvar no Git](https://web.dio.me/lab/criando-um-blog/learning/f86a8732-841a-4351-a437-66b67d550729)
+- [Entendendo o Desafio de Projeto](https://web.dio.me/lab/criando-um-blog/learning/623bd6a5-7d90-465b-958c-10c41bfe3c28)
 
 
 
